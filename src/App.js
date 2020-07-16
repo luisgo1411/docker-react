@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        Hi there SaurioRex! You really rock! :) You really fuckin rock!
+        Hi there SaurioRex! You really rock! :) You really fuckin rock! and changed in a feature branch!
       </header>
     </div>
   );
